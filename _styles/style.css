@@ -1,0 +1,50 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	font-family: "proxima-nova", sans-serif;
+	font-weight: 400;
+}
+bold{
+	font-weight: 800;
+}
+small{
+	font-weight: 100;
+}
+header{
+	height: 100px;
+	border-bottom: 1px solid #666;
+}
+.section{
+	width: 950px;
+	font-size: 16pt;
+	margin: auto;
+	position: relative;
+}
+h1, h2, h3{
+	text-align: center
+}
+footer{
+	border-top: 1px solid #666;
+	padding: 40px 0px;
+	font-size: 10pt;
+	color: #666;
+}
+
+/* listes */
+ul{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 20px;
+	top: 40px;
+}
+li{
+	list-style: none;
+	float: left;
+	margin-right: 20px;
+	font-weight: 700;
+	font-size: 14pt;
+}
+.section_1, .section_3{
+	
+}
